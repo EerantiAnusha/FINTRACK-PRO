@@ -7,3 +7,14 @@ monthly budgets.
 The application focuses on secure user authentication, structured expense
 categorization, and generating meaningful financial insights.
 
+
+
+
+## Key Features
+- Secure user authentication and authorization
+- Income and expense tracking
+- Category-wise expense management
+- Monthly budget analysis
+- RESTful API development
+
+
